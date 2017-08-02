@@ -1,0 +1,12 @@
+/*reseting the default styles */
+*{
+	padding: 0;
+	margin:0;
+}
+
+/*canvas centering and background*/
+#myCanvas {
+	background: #eee;
+	display: block;
+	margin: 0 auto;
+}
